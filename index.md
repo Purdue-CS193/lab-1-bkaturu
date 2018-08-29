@@ -20,6 +20,8 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. NUmber 3 
+**This is bolded** and _this is italic_
 
 **Bold** and _Italic_ and `Code` text
 
