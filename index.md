@@ -14,13 +14,13 @@ Syntax highlighted code block
 # bkaturu's CS 193 LAB
 
 - Favorite Things about CS 193
--iClicker
+- iClicker
 - Only once a week class/lecture 
 - This is a one credit chill class
 
 1. Numbered
 2. List
-3. NUmber 3 
+
 
 
 **Bold** and _Italic_ and `Code` text
